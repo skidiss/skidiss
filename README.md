@@ -9,4 +9,4 @@ Bangkit's Capstone Project : Derma Skin App
 	* Mig Asvino 
 * Cloud Computing
   * Ridha Adelia www.linkedin.com/in/ridhaadelia/
-	* Sulaiman Gari www.linkedin.com/in/sulaiman-gari-5a4669108/
+  * Sulaiman Gari www.linkedin.com/in/sulaiman-gari-5a4669108/
